@@ -472,7 +472,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://wheelchair_gp_description2/meshes/laser_link.STL" />
+        <mesh filename="package://wheelchair_gp_description/meshes/laser_link.STL" />
       </geometry>
       <material name="">
         <color rgba="1 1 1 0.3" />
@@ -481,7 +481,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://wheelchair_gp_description2/meshes/laser_link.STL" />
+        <mesh filename="package://wheelchair_gp_description/meshes/laser_link.STL" />
       </geometry>
     </collision>
   </link>
